@@ -1,0 +1,16 @@
+# Runtime data files (created automatically by the application)
+reviews.json
+tasks.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
